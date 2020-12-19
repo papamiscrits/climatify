@@ -1,0 +1,31 @@
+name: climatify
+description: A new Flutter application.
+
+
+publish_to:
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^8.10.1
+  geolocator: ^6.1.13
+  http: ^0.12.2
+
+  cupertino_icons: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
